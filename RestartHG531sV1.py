@@ -21,9 +21,8 @@ def RestartHG531sV1(url, username, password):
     browser.find_element_by_name('btnReboot').click()
     browser.switch_to.alert.accept()
     print('The modem is restarted.')
-    sleep(2)
+    sleep(50)
     
     browser.close()
     
 RestartHG531sV1('http://192.168.1.1/', 'vodafone', 'vodafone')
-
