@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 def RestartHG531sV1(url, username, password):
     
     from time import sleep
