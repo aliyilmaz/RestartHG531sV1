@@ -7,7 +7,7 @@ It is used to restart Huawei HG531s V1 model modems.
 
 ## Install Selenium Package
 
-    python3 pip install selenium
+    pip3 install selenium
 
 ## Enter the folder
 
