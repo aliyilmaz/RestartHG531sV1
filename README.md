@@ -5,7 +5,7 @@ It is used to restart Huawei HG531s V1 model modems.
 
     sudo apt-get install python3
 
-## Install Selenium Package
+## Install the required packages
 
     pip3 install -r requirements.txt
 
